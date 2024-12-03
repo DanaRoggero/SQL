@@ -15,7 +15,8 @@ SELECT
 	MAX(address_id) AS max_address_id, 
 	MIN(create_date) AS min_create_date, 
 	MAX(create_date) AS max_create_date 
-	FROM customer; 
+	
+FROM customer; 
 
 
 -- SQL Query to calculate summary statistics for non-numerical columns
