@@ -28,5 +28,7 @@ Tableau Public: Platform for creating and sharing interactive data visualization
 The dataset includes comprehensive information on Rockbuster’s film inventory, customer profiles, and payment transactions.
 ### Key data points:
 Film Inventory: Details about available movies, genres, and rental durations.
+
 Customer Information: Data on customer demographics and rental behavior.
+
 Payments: Records of transactions and revenue details.
