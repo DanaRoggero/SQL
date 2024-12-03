@@ -6,11 +6,17 @@ Rockbuster Stealth LLC, known for its extensive network of rental stores, is ada
 
 ### Key Business Questions
 Which movies contributed the most and least to revenue gain?
+
 What movie genres generate the most revenue?
+
 Do sales figures vary between geographical regions?
+
 In which countries are Rockbuster’s customers based?
+
 Where are customers with a high lifetime value located?
+
 What was the average rental duration for all videos?
+
 
 ### Tools  Used
 pgAdmin4: For managing PostgreSQL databases.
