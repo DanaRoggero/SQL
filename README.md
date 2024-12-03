@@ -13,8 +13,6 @@ Do sales figures vary between geographical regions?
 
 In which countries are Rockbuster’s customers based?
 
-Where are customers with a high lifetime value located?
-
 What was the average rental duration for all videos?
 
 
